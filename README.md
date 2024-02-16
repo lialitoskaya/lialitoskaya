@@ -3,10 +3,9 @@
 
 * 🔭 Я ищу работу фронтенд-разработчиком - удаленно или в офисе в Москве
 
+* ✉️  Связаться со мной **[https://liyarheon@gmail.com](mailto:https://liyarheon@gmail.com)**
 * :handshake: <a href="https://hh.ru/applicant/resumes/view?resume=4ee3d3bbff0cdd4aa60039ed1f74376677736b" >**Резюме**</a> на **HH.ru** (Предложения о работе можно направить тоже сюда)
-
 * :computer: Мои проекты - <a href='https://github.com/lialitoskaya?tab=repositories'>**здесь**</a> :computer:
-
 * 🚀 Codewars: <img src="https://www.codewars.com/users/lialitoskaya/badges/small?theme=light" alt="codewars" />
 
 ## Использовала и изучала:
